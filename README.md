@@ -19,6 +19,7 @@ This project aims to predict variation in no of dengue cases and to find if ther
   DicisionTreeRegression
   XGBoostRegression
   Data Visualization 
+  Feature Engineering
 
 # Dengue-Cases-Price-Prediction
             │
@@ -26,6 +27,9 @@ This project aims to predict variation in no of dengue cases and to find if ther
             ├── overview
             ├── analysis-prediction-ml
             └── README.md
+
+# Features
+--> Data preprocessing and cleaning --> Machine learning model training & testing --> Use of Regression & Classification methods --> No of Cases prediction --> Performance evaluation of models  
         
             
             
