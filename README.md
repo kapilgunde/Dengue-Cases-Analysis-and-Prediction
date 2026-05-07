@@ -5,3 +5,17 @@ I have developed a model using machine learning to predict the Dengue cases usin
 
 # Overview
 This project aims to predict variation in no of dengue cases and to find if there is any relatiion between the enviromental changes using  machine learning techniques. It utilizes historical cases data and enviromental Data to train models and make future  number of cases predictions.
+
+# Technologies Used
+  Python
+  Machine Learning
+  Statistical Analysis
+  Kaggle data set
+  Pandas
+  NumPy
+  Matplotlib
+  LinearRegression
+  LogisticRegressionClassifier
+  DicisionTreeRegression
+  XGBoostRegression
+  Data Visualization 
