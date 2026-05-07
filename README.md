@@ -26,7 +26,16 @@ This project aims to predict variation in no of dengue cases and to find if ther
             ├── dataset-kaggle.com
             ├── overview
             ├── analysis-prediction-ml
-            └── README.md
+            └── README.md## Steps to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kapilgunde/Dengue-Cases-Analysis-and-Prediction.git
+2. Project Directory:
+
+3.            cd Dengue-Cases-Analysis-and-Prediction
+
+
+#           
 
 # Features
 --> Data preprocessing and cleaning --> Machine learning model training & testing --> Use of Regression & Classification methods --> No of Cases prediction --> Performance evaluation of models  
