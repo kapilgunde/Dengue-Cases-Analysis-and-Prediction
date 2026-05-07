@@ -48,6 +48,10 @@ This project aims to predict variation in no of dengue cases and to find if ther
 
 ![visualization](image.png)
 
+
+ # Author
+Kapil Gunde M.Sc Statistics – Banaras Hindu University 2026-27
+
  
 
         
