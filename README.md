@@ -30,6 +30,18 @@ This project aims to predict variation in no of dengue cases and to find if ther
 
 # Features
 --> Data preprocessing and cleaning --> Machine learning model training & testing --> Use of Regression & Classification methods --> No of Cases prediction --> Performance evaluation of models  
+
+
+# Learning OutCome
+
+  Through this project, I gained practical experience in:
+
+ -Data preprocessing and analysis
+ -Machine learning model implementation  |Dicion Tree|XGBoost|LinearRegression|LogisticRegression|
+ -Biological data prediction
+ -Analysis of Data 
+ -Statistical modeling and evaluation
+ -Prediction Optimization
         
             
             
