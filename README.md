@@ -29,7 +29,7 @@ This project aims to predict variation in no of dengue cases and to find if ther
             └── README.md## Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kapilgunde/Dengue-Cases-Analysis-and-Prediction.git
+   git clone https://github.com/gundaphul/Dengue-Cases-Analysis-and-Prediction.git
 2. Project Directory:
 
 3.            cd Dengue-Cases-Analysis-and-Prediction
